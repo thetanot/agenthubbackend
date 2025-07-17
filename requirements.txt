@@ -1,7 +1,8 @@
 fastapi[standard]
-# pydantic
-# langchain
-# tiktoken 
-# langgraph
-# beautifulsoup4
-# langchain-community
+pydantic
+langchain
+tiktoken
+langgraph
+beautifulsoup4
+langchain-community
+langchain[google-genai]
