@@ -9,7 +9,8 @@ origins = [
     "https://localhost.tiangolo.com",
     "http://localhost",
     "http://localhost:8000",
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "https://agenthubbackend-4.onrender.com"
 ]
 
 app.add_middleware(
